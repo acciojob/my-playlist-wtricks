@@ -20,6 +20,7 @@ body {
 
 .player_one a {
 	display: block;
+	text-decoration-line: none;
 }
 
 .player_two {
