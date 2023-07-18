@@ -1,10 +1,17 @@
 /*  your css code here. If applicable */
 body {
-	background-color: #ccc;
-	text-align: center;
+	background-color: rgb(204, 204, 204);
 	font-family: Arial;
 	box-sizing: border-box;
 	margin: 10px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+h1 {
+	text-align: center;
 }
 
 .player_one,
