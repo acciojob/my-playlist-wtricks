@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+body {
+	background-color: #ccc;
+	text-align: center;
+	font-family: Arial;
+	box-sizing: border-box;
+	margin: 10px;
+}
+
+.player_one,
+.player_two {
+	width: 100%;
+	background: #fff;
+	text-align: left;
+	padding: 10px;
+	border: 1px solid #111;
+	border-radius: 10px;
+	margin-bottom: 0;
+}
+
+.player_one a {
+	display: block;
+}
+
+.player_two {
+	width: max-content;
+	margin: 30px auto;
+}
+
+video,audio {
+	display: block;
+}
